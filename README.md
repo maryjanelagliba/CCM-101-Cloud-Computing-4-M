@@ -1,8 +1,8 @@
-Name:
-LAGLIBA, MARYJANE
+Cloud Computing Course Repository
 
-Course & Section:
-BSIT 4-M
+**Name:** LAGLIBA, MARYJANE
 
-Descreption
-This repository is for my Cloud Computing course and will be used to organize and submit my course requirements.
+**Course & Section**: BSIT 4-M
+
+Description
+This repository contains my activities and projects for the Cloud Computing course.
